@@ -2,7 +2,7 @@
 
 Bu proje,HTML ve CSS kullanılarak hazırlanmış basit bir kuaför sitesi örneğidir. 
 
-<a href="https://eraykiyici.github.io/kuaforsitesi/index.html" target="_blank">Siteye Gitmek İçin</a>
+<a href="https://eraykiyici.github.io/blog/" target="_blank">Siteye Gitmek İçin</a>
 
 ## Dosyalar
 - `index.html` — Ana Sayfa  
