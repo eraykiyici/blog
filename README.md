@@ -1,6 +1,6 @@
 # Blog Web Sitesi
 
-Bu proje,HTML ve CSS kullanılarak hazırlanmış basit bir kuaför sitesi örneğidir. 
+Bu proje,HTML ve CSS kullanılarak hazırlanmış basit bir blog sitesi örneğidir. 
 
 <a href="https://eraykiyici.github.io/blog/" target="_blank">Siteye Gitmek İçin</a>
 
